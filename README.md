@@ -1,5 +1,5 @@
 # Prerequisites
-To run this application, kindly make you have these libraries installed
+To run this application, kindly make sure you have these libraries installed
 1. Scipy
 2. Imutils
 3. Playsound
